@@ -37,6 +37,7 @@ if (!isset($_SESSION["username"]))
             <button type="">Tambah Data</button>
         </a>
     </div>
+    <h1>Daftar Buku</h1>
     <form action="" method="get">
         <input type="text" name="keyword" autofocus>
         <button type="submit" name="cari">Cari!</button>

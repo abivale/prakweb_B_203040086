@@ -39,7 +39,7 @@
         <?php foreach ($itemdota as $id) : ?>
             <p class="Name">
                 <a href="php/detail.php?id=<?= $id['id'] ?>">
-                    <?= $id["Name"] ?>
+                    <?= $id["nama_buku"] ?>
                 </a>
             </p>
             <?php endforeach; ?>
