@@ -31,7 +31,7 @@ if (isset($_POST['tambah'])) {
     <title>Document</title>
 </head>
 <body>
-<h3>Form Tambah Data Mahasiswa</h3>
+<h3>Form Tambah Data Buku</h3>
     <form action="" method="post">
     <ul>
         <li>
