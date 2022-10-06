@@ -32,7 +32,7 @@ if (isset($_GET['cari'])) {
     <title>Latihan5a_203040086</title>
     <style>
         body {
-            background-color: aquamarine;
+            background-color: #628E90;
         }
     </style>
 </head>
